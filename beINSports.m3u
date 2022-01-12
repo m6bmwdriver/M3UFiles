@@ -1,4 +1,5 @@
-﻿#EXTINF:-1,|AR| BEIN SPORTS Max 1 SD
+#EXTM3U
+#EXTINF:-1,|AR| BEIN SPORTS Max 1 SD
 http://tv1.live:25461/star7arab21/ZcCMgDjwrR/7820
 #EXTINF:-1,|AR| BEIN SPORTS Max 2 SD
 http://tv1.live:25461/star7arab21/ZcCMgDjwrR/7821
@@ -8,7 +9,6 @@ http://tv1.live:25461/star7arab21/ZcCMgDjwrR/7824
 http://tv1.live:25461/star7arab21/ZcCMgDjwrR/7825
 #EXTINF:-1,|AR| beIN SPORTS PREMIUM SD1
 http://tv1.live:25461/star7arab21/ZcCMgDjwrR/3126
-#EXTM3U
 #EXTINF:-1,|AR| beIN SPORTS PREMIUM SD1
 http://tv1.live:25461/star7arab21/ZcCMgDjwrR/3126
 #EXTINF:-1,|AR| beIN SPORTS PREMIUM SD2
