@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,SPO: Sports Premium 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1,SPO: Sports Premium 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
+#EXTINF:-1,SPO: Sports Premium 3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTINF:-1,Sport_01_PREMIUM_SD
+http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49685
+#EXTINF:-1,Sport_02_PREMIUM_SD
+http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49386
+#EXTINF:-1,Sport_03_PREMIUM_SD
+http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49686
 #EXTINF:-1,Sport 1HD
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6872
 #EXTINF:-1,Sport 2HD
@@ -41,12 +53,6 @@ http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49383
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49384
 #EXTINF:-1,Sport_07_SD
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49385
-#EXTINF:-1,Sport_01_PREMIUM_SD
-http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49685
-#EXTINF:-1,Sport_02_PREMIUM_SD
-http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49386
-#EXTINF:-1,Sport_03_PREMIUM_SD
-http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49686
 #EXTINF:-1,SPORTS MAX 1 HD
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/54377
 #EXTINF:-1,SPORTS MAX 2 HD
