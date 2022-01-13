@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1,SPO: Sports Premium 3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
 #EXTINF:-1,SPO: Sports Premium 1 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/13
 #EXTINF:-1,SPO: Sports Premium 2 HD
 http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1,SPO: Sports Premium 3 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
 #EXTINF:-1,Sport_01_PREMIUM_SD
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/49685
 #EXTINF:-1,Sport_02_PREMIUM_SD
