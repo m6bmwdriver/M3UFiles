@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1,:BEIN SPORTS 1
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_1 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_1 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_1
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_1 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_1
 #EXTINF:-BEiN SPORTS 2
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_2 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_2 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_2
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_2 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_2
 #EXTINF:-:BEIN SPORTS 3
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_3 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_3 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_3
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_3 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_3
 #EXTINF:-:BEIN SPORTS 4
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_4 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_4 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_4
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_4 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_4
 #EXTINF:-:BEIN SPORTS 5
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_5 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_5 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_5
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_5 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_5
 #EXTINF:-:BEIN SPORTS 6
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_6 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_6 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_6
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_6 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_6
 #EXTINF:-:BEIN SPORTS 7
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_7 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_7 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_7
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_7 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_7
 #EXTINF:-:BEIN SPORTS 8
-rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_8 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_8 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_8
+http://www.teledunet.com/tv_/player.swf?id0=83074788548200&skin=bekle%2Fbekle.xml&channel=bein_sport_8 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_8
 Bein Sport 4
-rtmp://$OPT:rtmp-raw=rtmpe://94.242.228.24:443/liveedge/itv18204 pageUrl=http://zingo.tv/hpgdisco
+http://zingo.tv/hpgdisco
 Bein Sport 5
 rtmp://$OPT:rtmp-raw=rtmpe://94.242.228.24:443/liveedge/bein57083 pageUrl=http://zingo.tv/hpgdisco
 Bein Sport 6
